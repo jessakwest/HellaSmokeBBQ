@@ -40,13 +40,6 @@ footer {
     width: 100%;
 }
 
-.marquee {
-    overflow: hidden;
-    white-space: nowrap;
-    box-sizing: border-box;
-    animation: marquee 20s linear infinite;
-}
-
 .marquee img {
     width: 250px; /* Adjust the width of the images as needed */
     height: auto; /* Adjust the height of the images as needed */
