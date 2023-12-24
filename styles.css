@@ -28,6 +28,9 @@ h2 {
 section {
     text-align: center;
     padding: 2em;
+}
+
+#main-image {
     width: 350px; 
     height: auto;
 }
