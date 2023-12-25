@@ -30,6 +30,11 @@ section {
     padding: 2em;
 }
 
+#main-image-container {
+    display: flex;
+    justify-content: center;
+}
+
 #main-image {
     max-width: 300px;
     height: auto;
