@@ -31,12 +31,10 @@ section {
 }
 
 #main-image {
-    display: block; /* Center the image horizontally */
-    width: 300px;
-    max-width: 100%;
+    max-width: 300px;
     height: auto;
-    margin: auto;
 }
+
 
 .footer-container {
     position: fixed;
