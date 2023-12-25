@@ -31,6 +31,7 @@ section {
 }
 
 #main-image {
+width: 350px;
 max-width: 100%;
   height: auto;
   display: block; /* Center the image horizontally */
