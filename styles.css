@@ -31,11 +31,11 @@ section {
 }
 
 #main-image {
-width: 350px;
-max-width: 100%;
-  height: auto;
-  display: block; /* Center the image horizontally */
-  margin: auto;
+    display: block; /* Center the image horizontally */
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 .footer-container {
