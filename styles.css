@@ -31,8 +31,10 @@ section {
 }
 
 #main-image {
-    width: 350px; 
-    height: auto;
+max-width: 100%;
+  height: auto;
+  display: block; /* Center the image horizontally */
+  margin: auto;
 }
 
 .footer-container {
